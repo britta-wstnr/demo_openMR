@@ -10,4 +10,4 @@ The demo uses a public data set, that is readily availble through MNE-Python.
 ### Dependencies
 - mne
 - matplotlib
-- ipywidget
+- ipywidgets
